@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-me.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-weibo_username:     Supersharker
-zhihu_username:     一叶知秋
+weibo_username:     https://weibo.com/u/5948582598/home?wvr=5
+zhihu_username:     https://www.zhihu.com/people/yi-xie-zhi-qiu-87-24
 github_username:    Supersharker
-#facebook_username:  baiying.qiu.7
-jianshu_username:   ChaoGeGe
-#twitter_username:   qiubaiying
+#facebook_username:  
+jianshu_username:   https://www.jianshu.com/u/784811a9a813
+#twitter_username:   
 
 
 
