@@ -55,9 +55,9 @@ kramdown:
 
 
 
-# 评论系统
+# 评论系统  这个评论系统墙内不太友好
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: 
 
 # Gitalk
 gitalk:
